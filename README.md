@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @federicadossi
-- 👀 I’m interested in phyton codes for economic models
-- 🌱 I’m currently working on my Master thesis
-- 💞️ I’m looking to collaborate on fighting the fossil fuel industry
+- 🌱 Data analysis to assess the impact of climate policies
 - 📫 How to reach me: linkedin is the best way: www.linkedin.com/in/federica-dossi-ba8503230
 
 <!---
