@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @federicadossi
-- 🌱 DPerforming data analysis to assess the impact of climate policies
+- 🌱 Performing data analysis to assess the impact of climate policies
 - 📫 How to reach me: linkedin is the best way: www.linkedin.com/in/federica-dossi-ba8503230
 
 <!---
